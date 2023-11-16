@@ -10,7 +10,7 @@ namespace hello
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello");
+            Console.WriteLine("hello everyone");
         }
 
         static void GreetWhite(string[] args)
